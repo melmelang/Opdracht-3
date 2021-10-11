@@ -1,0 +1,17 @@
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.csproj.AssemblyReference.cache
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.Opdracht3.resources
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.csproj.GenerateResource.cache
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.AssemblyInfoInputs.cache
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.AssemblyInfo.cs
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.csproj.CoreCompileInputs.cache
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\bin\Debug\net6.0-windows\Opdracht3melvin.exe
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\bin\Debug\net6.0-windows\Opdracht3melvin.deps.json
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\bin\Debug\net6.0-windows\Opdracht3melvin.runtimeconfig.json
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\bin\Debug\net6.0-windows\Opdracht3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\bin\Debug\net6.0-windows\ref\Opdracht3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\bin\Debug\net6.0-windows\Opdracht3melvin.pdb
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\ref\Opdracht3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.pdb
+C:\Users\angeli melvin\source\repos\Opdracht3melvin\obj\Debug\net6.0-windows\Opdracht3melvin.genruntimeconfig.cache
